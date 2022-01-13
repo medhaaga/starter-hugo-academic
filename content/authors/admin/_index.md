@@ -1,35 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Medha Agarwal
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Statistics
+role: Ph.D. Student in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Washington
+  url: https://www.uw.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: University of Washington
+    #year: 2012
+  - course: BS in Mathematics
+    institution: Indian Institute of Technology Kanpur, India
+    #year: 2009
+  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,19 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:medhaaga@uw.edu'
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=AdCjG_gAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/medhaaga
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/medha-agarwal-161910/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,8 +65,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first-year Ph.D. student in the [Department of Statistics](https://stat.uw.edu/) at University of Washington. I did my undergraduate in Mathematics from [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/) with a minor in English literature. At IITK, I was advised by [Prof. Dootika Vats](https://dvats.github.io) from the Department of Mathematic and Statistics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have explored different topics in statistics through my undergraduate research spanning sampling methods and numerical optimization. I worked with Prof. Vats on autocovariance estimation from parallel Markov chain Monte Carlo implementations. In collaboration with Prof. Vats and [Prof. Victor Elvira](https://victorelvira.github.io/), I developed stopping rules using effective sample size in importance sampling. A recent work in collaboration with [Prof. Jason Xu](https://jasonxu90.github.io/) targeted acceleration of MM algorithms using quasi-Newton method.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Apart from research in statistics, I enjoy dancing and reading fiction. I spend my free time exploring the great coffee of Seattle. 
+
+
